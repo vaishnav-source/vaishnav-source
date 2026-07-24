@@ -67,7 +67,7 @@ Association Rule Mining & Market Basket Analysis project applying ML pattern-min
 <td width="50%">
 
 **⭐ More on GitHub**
-Check out my [full repo list](https://github.com/vaishnav-j?tab=repositories) for everything that's public.
+Check out my [full repo list](https://github.com/vaishnav-source?tab=repositories) for everything that's public.
 
 </td>
 </tr>
