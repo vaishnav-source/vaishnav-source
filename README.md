@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=vaishnav-j&style=for-the-badge&color=6c8cff" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=vaishnav-source&style=for-the-badge&color=6c8cff" alt="profile views"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@ AI idea-analysis SaaS built on Next.js 15 — validate and refine startup ideas 
 </td>
 <td width="50%">
 
-**🎓 [Student Dropout Risk](https://github.com/vaishnav-j/student-dropout-risk)**
+**🎓 [Student Dropout Risk](https://github.com/vaishnav-source/student-dropout-risk)**
 ML system predicting student dropout risk to enable early academic intervention.
 `Scikit-learn` `Flask` `HTML`
 
@@ -59,7 +59,7 @@ ML system predicting student dropout risk to enable early academic intervention.
 <tr>
 <td width="50%">
 
-**📊 [LTA Miner: ARM & MBA in ML](https://github.com/vaishnav-j/LTA_Miner_ARM_and_MBA_in_ML)**
+**📊 [LTA Miner: ARM & MBA in ML](https://github.com/vaishnav-source/LTA_Miner_ARM_and_MBA_in_ML)**
 Association Rule Mining & Market Basket Analysis project applying ML pattern-mining techniques to transactional data.
 `Python` `ARM` `Market Basket Analysis`
 
