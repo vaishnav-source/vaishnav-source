@@ -42,32 +42,24 @@
 <tr>
 <td width="50%">
 
-**⚡ Ideavolt**
-AI idea-analysis SaaS built on Next.js 15 — validate and refine startup ideas with an AI coach. *(Live demo below — repo is private)*
-🔗 [Live Demo](https://ideavolt-kio4.onrender.com)
-`Next.js 15` `Claude API` `Supabase`
+[![Ideavolt](assets/card-ideavolt.svg)](https://ideavolt-kio4.onrender.com)
 
 </td>
 <td width="50%">
 
-**🎓 [Student Dropout Risk](https://github.com/vaishnav-source/student-dropout-risk)**
-ML system predicting student dropout risk to enable early academic intervention.
-`Scikit-learn` `Flask` `HTML`
+[![Student Dropout Risk](assets/card-dropout.svg)](https://github.com/vaishnav-source/student-dropout-risk)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**📊 [LTA Miner: ARM & MBA in ML](https://github.com/vaishnav-source/LTA_Miner_ARM_and_MBA_in_ML)**
-Association Rule Mining & Market Basket Analysis project applying ML pattern-mining techniques to transactional data.
-`Python` `ARM` `Market Basket Analysis`
+[![LTA Miner](assets/card-ltaminer.svg)](https://github.com/vaishnav-source/LTA_Miner_ARM_and_MBA_in_ML)
 
 </td>
 <td width="50%">
 
-**⭐ More on GitHub**
-Check out my [full repo list](https://github.com/vaishnav-source?tab=repositories) for everything that's public.
+[![More on GitHub](assets/card-more.svg)](https://github.com/vaishnav-source?tab=repositories)
 
 </td>
 </tr>
@@ -100,10 +92,6 @@ Check out my [full repo list](https://github.com/vaishnav-source?tab=repositorie
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnav-source&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnav-source&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
 
 ---

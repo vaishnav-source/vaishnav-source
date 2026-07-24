@@ -1,0 +1,60 @@
+<svg width="400" height="240" viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f1a"/>
+      <stop offset="100%" stop-color="#141a2b"/>
+    </linearGradient>
+    <radialGradient id="blob1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffb020" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffb020" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff6cab" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ff6cab" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glassGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="35"/>
+    </filter>
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="400" height="240" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="400" height="240" fill="url(#bg)"/>
+    <circle cx="60" cy="40" r="120" fill="url(#blob1)" filter="url(#blur)"/>
+    <circle cx="360" cy="200" r="130" fill="url(#blob2)" filter="url(#blur)"/>
+
+    <!-- glass panel -->
+    <rect x="10" y="10" width="380" height="220" rx="20"
+          fill="url(#glassGrad)"
+          stroke="rgba(255,255,255,0.35)" stroke-width="1.2"/>
+    <!-- top highlight sheen -->
+    <rect x="10" y="10" width="380" height="70" rx="20" fill="#ffffff" opacity="0.06"/>
+
+    <text x="34" y="55" font-family="Segoe UI, Arial, sans-serif" font-size="26">📊</text>
+    <text x="70" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#ffffff">LTA Miner</text>
+    <text x="70" y="72" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#ffb020" font-weight="600">ARM &amp; MBA IN ML</text>
+
+<text x="34" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#dbe4ff" opacity="0.88">Association Rule Mining and Market</text>
+<text x="34" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#dbe4ff" opacity="0.88">Basket Analysis applying ML pattern-</text>
+<text x="34" y="158" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#dbe4ff" opacity="0.88">mining to transactional data.</text>
+
+
+        <rect x="34" y="176" width="67.2" height="24" rx="12" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+        <text x="67.6" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#ffffff" text-anchor="middle" opacity="0.95">Python</text>
+        
+        <rect x="111.2" y="176" width="45.6" height="24" rx="12" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+        <text x="134.0" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#ffffff" text-anchor="middle" opacity="0.95">ARM</text>
+        
+        <rect x="166.8" y="176" width="117.60000000000001" height="24" rx="12" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+        <text x="225.60000000000002" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#ffffff" text-anchor="middle" opacity="0.95">Market Basket</text>
+        
+    <text x="34" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#9db4ff" font-weight="600">View Repo →</text>
+  </g>
+  <rect x="1" y="1" width="398" height="238" rx="21" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+</svg>
