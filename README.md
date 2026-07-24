@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnav J</h1>
-<h3 align="center">Data Science & AI/ML Developer | Web scraping  | Building things end-to-end</h3>
+<h3 align="center">Data Science & AI/ML Developer |Web Scraping| Building things end-to-end</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C8CFF&center=true&vCenter=true&width=600&lines=Data+Science+%2B+AI%2FML+Developer;I+build+full-stack+AI+products;Python+%7C+TensorFlow+%7C+React+%7C+Node.js;Open+to+entry-level+Data+Science+roles" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🎓 BCA graduate  based in Kerala, India
+- 🎓 BCA graduate based in Kerala, India
 - 🔭 Currently building AI-powered full-stack projects — from EdTech platforms to desktop AI companions
 - 🌱 Deep into multi-provider AI orchestration (Groq, Claude, Hugging Face, OpenRouter, NVIDIA NIM)
 - 💼 Actively looking for entry-level Data Science / ML roles
@@ -42,24 +42,34 @@
 <tr>
 <td width="50%">
 
-[![Ideavolt](assets/card-ideavolt.svg)](https://ideavolt-kio4.onrender.com)
+**⚡ Ideavolt**
+AI idea-analysis SaaS built on Next.js 15 — validate and refine startup ideas with an AI coach. *(Live demo — repo is public)*
+🔗 [Live Demo](https://ideavolt-kio4.onrender.com)
+`Next.js 15` `Claude API` `Supabase`
 
 </td>
 <td width="50%">
 
-[![Student Dropout Risk](assets/card-dropout.svg)](https://student-dropout-risk.onrender.com)
+**🎓 [Student Dropout Risk](https://github.com/vaishnav-source/student-dropout-risk)**
+ML system predicting student dropout risk to enable early academic intervention.
+🔗 [Live Demo](https://student-dropout-risk.onrender.com/)
+`Scikit-learn` `Flask` `HTML`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![LTA Miner](assets/card-ltaminer.svg)](https://github.com/vaishnav-source/LTA_Miner_ARM_and_MBA_in_ML)
+**📊 [LTA Miner: ARM & MBA in ML](https://github.com/vaishnav-source/LTA_Miner_ARM_and_MBA_in_ML)**
+Association Rule Mining & Market Basket Analysis project applying ML pattern-mining techniques to transactional data.
+🔗 [Live Demo](https://lta-miner-arm-and-mba-in-ml-1.onrender.com)
+`Python` `ARM` `Market Basket Analysis`
 
 </td>
 <td width="50%">
 
-[![More on GitHub](assets/card-more.svg)](https://github.com/vaishnav-source?tab=repositories)
+**⭐ More on GitHub**
+Check out my [full repo list](https://github.com/vaishnav-source?tab=repositories) for everything that's public.
 
 </td>
 </tr>
