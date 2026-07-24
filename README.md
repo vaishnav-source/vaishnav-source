@@ -47,7 +47,7 @@
 </td>
 <td width="50%">
 
-[![Student Dropout Risk](assets/card-dropout.svg)](https://github.com/vaishnav-source/student-dropout-risk)
+[![Student Dropout Risk](assets/card-dropout.svg)](https://student-dropout-risk.onrender.com)
 
 </td>
 </tr>
