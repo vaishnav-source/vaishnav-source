@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnav J</h1>
-<h3 align="center">Data Science & AI/ML Developer | BCA Grad '25 | Building things end-to-end</h3>
+<h3 align="center">Data Science & AI/ML Developer | Web scraping  | Building things end-to-end</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C8CFF&center=true&vCenter=true&width=600&lines=Data+Science+%2B+AI%2FML+Developer;I+build+full-stack+AI+products;Python+%7C+TensorFlow+%7C+React+%7C+Node.js;Open+to+entry-level+Data+Science+roles" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🎓 BCA graduate (2025), based in Kerala, India
+- 🎓 BCA graduate  based in Kerala, India
 - 🔭 Currently building AI-powered full-stack projects — from EdTech platforms to desktop AI companions
 - 🌱 Deep into multi-provider AI orchestration (Groq, Claude, Hugging Face, OpenRouter, NVIDIA NIM)
 - 💼 Actively looking for entry-level Data Science / ML roles
