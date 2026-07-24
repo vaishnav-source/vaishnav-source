@@ -41,7 +41,7 @@
 > #### ⚡ Ideavolt
 > AI idea-analysis SaaS built on Next.js 15 — validate and refine startup ideas with an AI coach.
 >
-> <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="34" height="34" style="background:#000000;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="34" height="34" style="background:#D97757;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://cdn.simpleicons.org/supabase/ffffff" width="34" height="34" style="background:#3ECF8E;border-radius:50%;padding:7px;" />
+> <img src="https://skillicons.dev/icons?i=next js" width="34" height="34" style="background:#000000;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="34" height="34" style="background:#D97757;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://cdn.simpleicons.org/supabase/ffffff" width="34" height="34" style="background:#3ECF8E;border-radius:50%;padding:7px;" />
 >
 > **[→ Live Demo](https://ideavolt-kio4.onrender.com)**
 
@@ -50,7 +50,7 @@
 > #### 🎓 Student Dropout Risk
 > ML system predicting student dropout risk to enable early academic intervention.
 >
-> <img src="https://cdn.simpleicons.org/scikitlearn/ffffff" width="34" height="34" style="background:#F7931E;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://cdn.simpleicons.org/flask/ffffff" width="34" height="34" style="background:#000000;border-radius:50%;padding:7px;" />
+> <img src="https://skillicons.dev/icons?i=sklearn" width="34" height="34" style="background:#F7931E;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://skillicons.dev/icons?i=flask" width="34" height="34" style="background:#000000;border-radius:50%;padding:7px;" />
 >
 > **[→ Live Demo](https://student-dropout-risk.onrender.com/)** 
 
