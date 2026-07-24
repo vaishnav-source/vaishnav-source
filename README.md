@@ -56,10 +56,10 @@
 
 <br>
 
-> #### 📊 LTA Miner — ARM & MBA in ML
+> ####  LTA Miner — ARM & MBA in ML
 > Association Rule Mining & Market Basket Analysis applying ML pattern-mining techniques to transactional data.
 >
-> <img src="https://cdn.simpleicons.org/python/ffffff" width="34" height="34" style="background:#3776AB;border-radius:50%;padding:7px;" />
+> <img src="https://skillicons.dev/icons?i=python" width="34" height="34" style="background:#3776AB;border-radius:50%;padding:7px;" />
 >
 > **[→ Live Demo](https://lta-miner-arm-and-mba-in-ml-1.onrender.com)**
 <br>
