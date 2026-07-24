@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🎓 BCA graduate  based in Kerala, India
+- 🎓 BCA graduate based in Kerala, India
 - 🔭 Currently building AI-powered full-stack projects — from EdTech platforms to desktop AI companions
 - 🌱 Deep into multi-provider AI orchestration (Groq, Claude, Hugging Face, OpenRouter, NVIDIA NIM)
 - 💼 Actively looking for entry-level Data Science / ML roles
@@ -40,23 +40,28 @@
 
 > #### ⚡ Ideavolt
 > AI idea-analysis SaaS built on Next.js 15 — validate and refine startup ideas with an AI coach.
+>
+> <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="34" height="34" style="background:#000000;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="34" height="34" style="background:#D97757;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://cdn.simpleicons.org/supabase/ffffff" width="34" height="34" style="background:#3ECF8E;border-radius:50%;padding:7px;" />
+>
 > **[→ Live Demo](https://ideavolt-kio4.onrender.com)**
-> ![Next.js](https://img.shields.io/badge/Next.js%2015-000?style=flat-square&logo=nextdotjs) ![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 <br>
 
 > #### 🎓 Student Dropout Risk
 > ML system predicting student dropout risk to enable early academic intervention.
-> **[→ Live Demo](https://student-dropout-risk.onrender.com/)** · **[View Repo](https://github.com/vaishnav-source/student-dropout-risk)**
-> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+>
+> <img src="https://cdn.simpleicons.org/scikitlearn/ffffff" width="34" height="34" style="background:#F7931E;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://cdn.simpleicons.org/flask/ffffff" width="34" height="34" style="background:#000000;border-radius:50%;padding:7px;" />
+>
+> **[→ Live Demo](https://student-dropout-risk.onrender.com/)** 
 
 <br>
 
 > #### 📊 LTA Miner — ARM & MBA in ML
 > Association Rule Mining & Market Basket Analysis applying ML pattern-mining techniques to transactional data.
-> **[→ Live Demo](https://lta-miner-arm-and-mba-in-ml-1.onrender.com)** · **[View Repo](https://github.com/vaishnav-source/LTA_Miner_ARM_and_MBA_in_ML)**
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
+>
+> <img src="https://cdn.simpleicons.org/python/ffffff" width="34" height="34" style="background:#3776AB;border-radius:50%;padding:7px;" />
+>
+> **[→ Live Demo](https://lta-miner-arm-and-mba-in-ml-1.onrender.com)**
 <br>
 
 > #### ⭐ More on GitHub
