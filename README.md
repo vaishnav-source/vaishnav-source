@@ -15,11 +15,9 @@
 
 ### 🚀 About Me
 
-- 🎓 BCA graduate based in Kerala, India
 - 🔭 Currently building AI-powered full-stack projects — from EdTech platforms to desktop AI companions
 - 🌱 Deep into multi-provider AI orchestration (Groq, Claude, Hugging Face, OpenRouter, NVIDIA NIM)
 - 💼 Actively looking for entry-level Data Science / ML roles
-- ⚡ Fun fact: I've built two different SSH-terminal portfolios (because one wasn't enough)
 
 ---
 
