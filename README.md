@@ -15,9 +15,9 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building AI-powered full-stack projects — from EdTech platforms to desktop AI companions
-- 🌱 Deep into multi-provider AI orchestration (Groq, Claude, Hugging Face, OpenRouter, NVIDIA NIM)
-- 💼 Actively looking for entry-level Data Science / ML roles
+* 🔭 Currently building AI-powered full-stack projects
+* 🌱 Deep into multi-provider AI orchestration (Groq, Claude, Hugging Face, OpenRouter, NVIDIA NIM)
+* 💼 Actively looking for entry-level Data Science / ML roles
 
 ---
 
@@ -30,65 +30,71 @@
 **AI / ML:** TensorFlow · Keras · Scikit-learn · Groq · Claude API · Hugging Face · OpenRouter · NVIDIA NIM
 **Frontend:** React · TypeScript · TailwindCSS · Framer Motion · Vite
 **Backend:** Node.js · Flask · FastAPI · Supabase
-**Other:** Docker-ready deployments · Fly.io · Render · SSH/TUI apps
+**Other:** Docker · Fly.io · Render · SSH/TUI apps
 
 ---
 
 ### 🧩 Featured Projects
 
 > #### ⚡ Ideavolt
-> AI idea-analysis SaaS built on Next.js 15 — validate and refine startup ideas with an AI coach.
 >
-> <img src="https://skillicons.dev/icons?i=nextjs" width="34" height="34" style="background:#000000;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="34" height="34" style="background:#D97757;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://skillicons.dev/icons?i=supabase" width="34" height="34" style="background:#3ECF8E;border-radius:50%;padding:7px;" />
+> AI idea-analysis SaaS built on Next.js 15.
+>
+> <img src="https://skillicons.dev/icons?i=nextjs" width="34" height="34" /> <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="34" height="34" /> <img src="https://skillicons.dev/icons?i=supabase" width="34" height="34" />
 >
 > **[→ Live Demo](https://ideavolt-kio4.onrender.com)**
 
 <br>
 
 > #### 🎓 Student Dropout Risk
-> ML system predicting student dropout risk to enable early academic intervention.
 >
-> <img src="https://skillicons.dev/icons?i=sklearn" width="34" height="34" style="background:#F7931E;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://skillicons.dev/icons?i=flask" width="34" height="34" style="background:#000000;border-radius:50%;padding:7px;" />
+> ML system predicting student dropout risk.
 >
-> **[→ Live Demo](https://student-dropout-risk.onrender.com/)** 
+> <img src="https://skillicons.dev/icons?i=sklearn" width="34" height="34" /> <img src="https://skillicons.dev/icons?i=flask" width="34" height="34" />
+>
+> **[→ Live Demo](https://student-dropout-risk.onrender.com/)**
 
 <br>
 
-> ####  LTA Miner — ARM & MBA in ML
-> Association Rule Mining & Market Basket Analysis applying ML pattern-mining techniques to transactional data.
+> #### 🏥 Healthcare No-Show Prediction
 >
-> <img src="https://skillicons.dev/icons?i=python" width="34" height="34" style="background:#3776AB;border-radius:50%;padding:7px;" />
+> ML system predicting whether a patient will miss a scheduled appointment.
+>
+> <img src="https://skillicons.dev/icons?i=python" width="34" height="34" /> <img src="https://skillicons.dev/icons?i=sklearn" width="34" height="34" /> <img src="https://skillicons.dev/icons?i=flask" width="34" height="34" />
+>
+> **[→ Live Demo](https://healthcare-x4of.onrender.com/)**
+
+<br>
+
+> #### 🛒 LTA Miner — ARM & MBA in ML
+>
+> Association Rule Mining & Market Basket Analysis.
+>
+> <img src="https://skillicons.dev/icons?i=python" width="34" height="34" />
 >
 > **[→ Live Demo](https://lta-miner-arm-and-mba-in-ml-1.onrender.com)**
-<br>
 
 <br>
-
-🏥 Healthcare No-Show Prediction
-
-Machine Learning system that predicts whether a patient is likely to miss a scheduled medical appointment. The project includes data preprocessing, feature engineering, model training, evaluation and an interactive web interface for making predictions.
-
-<img src="https://skillicons.dev/icons?i=python" width="34" height="34" style="background:#3776AB;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://skillicons.dev/icons?i=sklearn" width="34" height="34" style="background:#F7931E;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://skillicons.dev/icons?i=flask" width="34" height="34" style="background:#000000;border-radius:50%;padding:7px;" />
-
-→ Live Demo
 
 > #### ⭐ More on GitHub
-> Browse my [full repo list](https://github.com/vaishnav-source?tab=repositories) for everything else that's public.
+>
+> Browse my [full repo list](https://github.com/vaishnav-source?tab=repositories).
+
+---
 
 <details>
-<summary>🚧 <b>Currently Building (not yet public)</b> — click to expand</summary>
+<summary>🚧 <b>Currently Building</b></summary>
 <br>
 
-| Project | Description | Stack |
-|---|---|---|
-| 🏴‍☠️ **Nakama** | One Piece–themed AI desktop companion with all nine Straw Hats as distinct AI personalities, voice I/O, and animated visuals | Tauri 2 · React · TypeScript · Groq API |
-| 📧 **Email Analyzer** | Full-stack Gmail inbox analyzer with multi-provider AI rotation for resilient inference | FastAPI · React · Gmail OAuth2 |
-| 🕋 **Lisan Al-Dhad** | Arabic EdTech platform with comprehension, poetry-meter analysis, and a voice-quest game module | Flask · Sentence-Transformers · Whisper · Gradio |
-| 💻 **Termfolio** | SaaS portfolio builder generating both a web UI and an interactive SSH terminal | React · Node.js · Supabase · ssh2 |
-| 🖥️ **SSH Portfolio** | A personal portfolio you can `ssh` into — six themes, live clock, typewriter effects | Node.js · TypeScript · ssh2 · Fly.io |
-| 🌐 **Portfolio Site** | Personal site with particle canvas animation and 3D-tilt project cards | React · Vite · Framer Motion |
+| Project               | Stack                                            |
+| --------------------- | ------------------------------------------------ |
+| 🏴‍☠️ **Nakama**      | Tauri 2 · React · TypeScript · Groq API          |
+| 📧 **Email Analyzer** | FastAPI · React · Gmail OAuth2                   |
+| 🕋 **Lisan Al-Dhad**  | Flask · Sentence-Transformers · Whisper · Gradio |
+| 💻 **Termfolio**      | React · Node.js · Supabase · ssh2                |
+| 🖥️ **SSH Portfolio** | Node.js · TypeScript · ssh2 · Fly.io             |
+| 🌐 **Portfolio Site** | React · Vite · Framer Motion                     |
 
-*Repos going public soon — check back!*
 </details>
 
 ---
