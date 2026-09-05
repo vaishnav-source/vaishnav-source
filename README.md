@@ -62,6 +62,16 @@
 > **[→ Live Demo](https://lta-miner-arm-and-mba-in-ml-1.onrender.com)**
 <br>
 
+<br>
+
+🏥 Healthcare No-Show Prediction
+
+Machine Learning system that predicts whether a patient is likely to miss a scheduled medical appointment. The project includes data preprocessing, feature engineering, model training, evaluation and an interactive web interface for making predictions.
+
+<img src="https://skillicons.dev/icons?i=python" width="34" height="34" style="background:#3776AB;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://skillicons.dev/icons?i=sklearn" width="34" height="34" style="background:#F7931E;border-radius:50%;padding:7px;margin-right:4px;" /> <img src="https://skillicons.dev/icons?i=flask" width="34" height="34" style="background:#000000;border-radius:50%;padding:7px;" />
+
+→ Live Demo
+
 > #### ⭐ More on GitHub
 > Browse my [full repo list](https://github.com/vaishnav-source?tab=repositories) for everything else that's public.
 
