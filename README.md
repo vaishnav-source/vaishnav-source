@@ -99,17 +99,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaishnav-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav-source&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnav-source&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
-
----
-
 <p align="center"><i>⭐️ Open to Data Science / AI-ML opportunities — let's connect!</i></p>
