@@ -8,9 +8,6 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,react,ts,nodejs,flask,supabase,git,github&theme=dark" />
-</p>
 
 **AI / ML:** TensorFlow · Keras · Scikit-learn · Groq · Claude API · Hugging Face · OpenRouter · NVIDIA NIM
 **Frontend:** React · TypeScript · TailwindCSS · Framer Motion · Vite
